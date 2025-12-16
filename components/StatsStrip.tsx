@@ -9,7 +9,7 @@ export const StatsStrip: React.FC = () => {
           <span className="text-xs md:text-sm font-bold text-slate-400 uppercase tracking-widest">In Business</span>
         </div>
         <div className="bg-white p-6 md:p-8 rounded-2xl text-center shadow-2xl shadow-slate-900/10 border-b-4 border-techBlue">
-          <span className="block text-3xl md:text-4xl font-black text-techBlue mb-1">₹2L - ₹5L</span>
+          <span className="block text-3xl md:text-4xl font-black text-techBlue mb-1">₹50K - ₹5L</span>
           <span className="text-xs md:text-sm font-bold text-slate-400 uppercase tracking-widest">Investment</span>
         </div>
       </div>
